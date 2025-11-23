@@ -20,7 +20,7 @@ TECHNOLOGIES/TOOLS USED
 - Version Control: Git & GitHub
 
 STEPS TO INSTALL AND RUN
-1. Clone the repository: ```bash git clone https://github.com/your-username/BloomBuddy.git cd BloomBuddy/src
+1. Clone the repository: https://github.com/maseeraah/PLANT-PAL-PYTHON-PROJECT-
 
 INSTRUCTIONS FOR TESTING 
 1. Add Plant
